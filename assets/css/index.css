@@ -246,6 +246,7 @@ footer img {
   background-color: #ff3147;
   border-radius: 5px;
   display: none;
+  height: 100%;
 }
 .hover-card > div > h3 {
   font-size: 22px;
@@ -314,6 +315,19 @@ form label {
   .feature-subhead {
     font-size: 35px;
     margin: 1rem auto !important;
+  }
+
+  .quality {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .feature-card {
+    text-align: center;
+  }
+
+  .feedback-desc {
+    width: 90%;
   }
 }
 
